@@ -69,7 +69,7 @@ Aplicações em C# e .NET: calculadora, cronômetro, editor de texto, conversor 
 **Tecnologias:** C# / .NET / MSTest / NuGet
 
 ### 🌐 [devclub](https://github.com/RodrigoMarcano/devclub)
-Exercícios e páginas em HTML e CSS, incluindo uma landing page e um projeto responsivo.
+Três landing pages em HTML e CSS, incluindo um layout responsivo, cada uma com README e versão online. [Ver projetos online](https://rodrigomarcano.github.io/devclub/)
 
 **Tecnologias:** HTML5 / CSS3
 
